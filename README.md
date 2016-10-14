@@ -1,2 +1,2 @@
-# Iris-Recognition
-Iris Recognition System to make stronger Security.
+# Resume Android Application
+.
